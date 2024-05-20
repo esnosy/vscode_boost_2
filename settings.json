@@ -1,0 +1,48 @@
+{
+    "python.analysis.typeCheckingMode": "standard",
+    "ruff.format.args": [
+        "--line-length=120"
+    ],
+    "cmake.showOptionsMovedNotification": false,
+    "cmake.configureOnOpen": false,
+    "git.autofetch": "all",
+    "[python]": {
+        "editor.defaultFormatter": "charliermarsh.ruff",
+        "diffEditor.ignoreTrimWhitespace": false
+    },
+    "C_Cpp.inlayHints.parameterNames.suppressWhenArgumentContainsName": false,
+    "C_Cpp.inlayHints.referenceOperator.enabled": true,
+    "C_Cpp.inlayHints.parameterNames.enabled": true,
+    "C_Cpp.inlayHints.autoDeclarationTypes.showOnLeft": true,
+    "C_Cpp.inlayHints.autoDeclarationTypes.enabled": true,
+    "cmake.languageSupport.enableFileAPI": true,
+    "[cmake]": {
+        "editor.defaultFormatter": "cheshirekow.cmake-format"
+    },
+    "cmake.cmakeCommunicationMode": "fileApi",
+    "cmake.ctest.parallelJobs": 1,
+    "cmake.parallelJobs": 2,
+    "[cpp]": {
+        "editor.suggest.insertMode": "insert"
+    },
+    "cmake.generator": "Ninja",
+    "cmake.pinnedCommands": [],
+    "C_Cpp.intelliSenseEngine": "disabled",
+    "cpp.path": "F:\\clang+llvm-18.1.5-x86_64-pc-windows-msvc\\bin",
+    "clangd.path": "c:\\Users\\Eyad\\AppData\\Roaming\\Code\\User\\globalStorage\\llvm-vs-code-extensions.vscode-clangd\\install\\18.1.3\\clangd_18.1.3\\bin\\clangd.exe",
+    "python.analysis.inlayHints.callArgumentNames": "all",
+    "python.analysis.inlayHints.variableTypes": true,
+    "python.analysis.inlayHints.pytestParameters": true,
+    "python.analysis.inlayHints.functionReturnTypes": true,
+    "diffEditor.hideUnchangedRegions.enabled": true,
+    "redhat.telemetry.enabled": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    },
+    "workbench.colorTheme": "Visual Studio Dark - C++",
+    "editor.inlayHints.enabled": "offUnlessPressed"
+}
