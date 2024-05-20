@@ -31,6 +31,7 @@ code --install-extension ms-vscode.cmake-tools
 code --install-extension ms-vscode.cpptools
 code --install-extension ms-vscode.cpptools-extension-pack
 code --install-extension ms-vscode.cpptools-themes
+code --install-extension ms-vscode.hexeditor
 code --install-extension pkief.material-icon-theme
 code --install-extension powertech.powerthemes
 code --install-extension redhat.vscode-yaml
