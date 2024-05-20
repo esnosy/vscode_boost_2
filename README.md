@@ -5,6 +5,7 @@ New and improved
 This is the new version of (https://github.com/esnosy/vscode_boost)
 
 1. Install extensions
+
 Thanks!: https://stackoverflow.com/a/49398449/8094047
 ```pwsh
 code --install-extension amodio.tsl-problem-matcher
