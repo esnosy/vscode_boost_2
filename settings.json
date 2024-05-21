@@ -38,7 +38,7 @@
     "redhat.telemetry.enabled": true,
     "workbench.iconTheme": "material-icon-theme",
     "github.copilot.enable": {
-        "*": false,
+        "*": true,
         "plaintext": false,
         "markdown": false,
         "scminput": false

@@ -9,6 +9,7 @@ This is the new version of (https://github.com/esnosy/vscode_boost)
 Thanks!: https://stackoverflow.com/a/49398449/8094047
 ```pwsh
 code --install-extension amodio.tsl-problem-matcher
+code --install-extension britesnow.vscode-toggle-quotes
 code --install-extension charliermarsh.ruff
 code --install-extension cheshirekow.cmake-format
 code --install-extension christian-kohler.path-intellisense
