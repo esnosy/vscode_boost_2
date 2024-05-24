@@ -36,7 +36,6 @@
     "python.analysis.inlayHints.functionReturnTypes": true,
     "diffEditor.hideUnchangedRegions.enabled": true,
     "redhat.telemetry.enabled": true,
-    "workbench.iconTheme": "material-icon-theme",
     "github.copilot.enable": {
         "*": true,
         "plaintext": false,
@@ -44,5 +43,10 @@
         "scminput": false
     },
     "workbench.colorTheme": "Visual Studio Dark - C++",
-    "editor.inlayHints.enabled": "offUnlessPressed"
+    "editor.inlayHints.enabled": "offUnlessPressed",
+    "xml.format.maxLineWidth": 0,
+    "xml.format.splitAttributes": true,
+    "xml.format.spaceBeforeEmptyCloseTag": false,
+    "github.copilot.editor.enableAutoCompletions": true,
+    "terminal.integrated.fontFamily": "'JetBrainsMono NF', Consolas, 'Courier New', monospace"
 }
